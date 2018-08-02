@@ -16,7 +16,6 @@ import javax.swing.JLabel;
 public class DrawcCircle {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		try {  
 			//生成文件名
 			String uuid = UUID.randomUUID().toString().replaceAll("-", "");
